@@ -1,0 +1,13 @@
+.prefix-filter {
+    display: flex;
+}
+
+.cssshort-section {
+    text: #333 bold justify uppercase 1.25em 1.7 .05em;
+}
+.cssnext-link {
+    color: color(blue alpha(-10%));
+}
+.cssnext-link:hover {
+    color: color(orange blackness(80%));
+}

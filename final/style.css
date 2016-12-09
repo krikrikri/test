@@ -1,0 +1,15 @@
+.prefix-filter {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.cssshort-section {
+    text: #333 bold justify uppercase 1.25em 1.7 .05em;
+}
+.cssnext-link {
+    color: rgba(0, 0, 255, 0.9);
+}
+.cssnext-link:hover {
+    color: rgb(51, 33, 0);
+}
